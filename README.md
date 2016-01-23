@@ -2,7 +2,7 @@
 
 
 As we know, we can publish .Net packages to Nuget, in Node JS, we also can publish JS file as package to NPM which is the package manager for Node JS. This documentation will show you how to get started
-
+<pre>
 1, download Node JS and install it in your local machine c://
 2, create a folder called TieshanNode in c://TieshanNode
 3, come to github to create a new repository such as TieshanNode
@@ -41,7 +41,7 @@ npm install tieshannode
 20, npm install is downloading this apckage from your github with the URL od repository we worked on
 21, github will update record to tell you you just are making a new contribution
 22, so this package is shared by anyone in this world.
-
+</pre>
 
 
 
