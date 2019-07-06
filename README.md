@@ -10,9 +10,9 @@ As we know, we can publish .Net packages to Nuget, in Node JS, we also can publi
 5, cd tieshannode to let cmd access to this github folder
 6, now we are in place to create package, however, at first, we need to configure my account 
 run 
-  1,npm set init.author.name "david huang"
-  2,npm set init.author.eamil "clousoversea@gmail.com"
-  3,npm set init.author.url "http://www.y9se.com"
+  1,npm set init.author.name "davg"
+  2,npm set init.author.eamil "ca@gmail.com"
+  3,npm set init.author.url "http://www.e.com"
 run
   npm adduser
 7, now add index.js file to this folder, add some js code in
